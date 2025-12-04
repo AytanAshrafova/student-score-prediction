@@ -1,1 +1,17 @@
+Student Score Prediction
+ Machine Learning layihəsi — tələbənin oxuma saatına görə imtahan balını proqnozlaşdıran Linear Regression modeli.
 
+Layihənin Məqsədi
+Bu layihədə tələbələrin oxuma saatları (Hours) ilə imtahan nəticələri (Score) arasındakı əlaqə araşdırılır və oxuma saatına əsasən bal proqnozlaşdıran model qurulur.
+
+İstifadə Olunan Texnologiyalar
+
+Python
+
+pandas
+
+numpy
+
+matplotlib
+
+scikit-learn (Linear Regression)
